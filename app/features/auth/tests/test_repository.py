@@ -1,5 +1,5 @@
 """Repository-level tests for auth — UserRepository against the DB."""
-
+#TEST
 import pytest
 
 from app.features.auth.repositories import UserRepository
